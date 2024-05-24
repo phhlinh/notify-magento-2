@@ -14,3 +14,5 @@ Features
 Support Add to Cart action.
 Support Place Order action.
 Allow or disable receiving notification via email.
+
+More Details https://www.polacin.com/alertzy-push-notification-magento-2.html
