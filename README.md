@@ -1,4 +1,4 @@
-# notify-magento-2
+# Push Notifications - Magento 2
 Push Notifications - Magento 2 extension uses the Alertzy API integration, which allows you to receive real-time alerts as push notifications on your mobile device (iOS or Android) when customers add items to their cart or proceed to checkout.
 
 This is a great experience for store owners, it is very useful to let them know that potential customers are making purchases and preparing to process payments.
